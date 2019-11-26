@@ -1,0 +1,43 @@
+#服务启动端口号
+server:
+  port: 8200
+#服务名称（注册到Eureka服务器上的名称）
+spring:
+  application:
+    name: app-opendev-weixin
+  redis:
+    database: 4
+    host: 127.0.0.1
+    port: 6379
+  datasource:
+    url: jdbc:mysql://127.0.0.1:3306/meite_member?autoReconnect=true&characterEncoding=UTF-8&useUnicode=true&useSSL=false&serverTimezone=Asia/Shanghai
+    username: root
+    password: root
+    driver-class-name: com.mysql.jdbc.Driver
+    type: com.zaxxer.hikari.HikariDataSource
+    hikari:
+      connection-timeout: 30000
+      minimum-idle: 5
+      maximum-pool-size: 15
+      auto-commit: true
+      idle-timeout: 600000
+      pool-name: DatebookHikariCP
+      max-lifetime: 28740000
+      connection-test-query: SELECT 1
+#服务注册到Eureka
+eureka:
+  client:
+    service-url:
+      defaultZone : http://localhost:8100/eureka/
+
+
+####swagger相关配置
+swagger:
+  base-package: com.opendev.weixin.service
+  title: SpringCloud2.x构建微服务电商项目-微信服务接口
+  description: 该项目“基于SpringCloud2.x构建微服务电商项目”由每特教育|蚂蚁课堂版权所有，未经过允许的情况下，私自分享视频和源码属于违法行为。
+  version: 1.1
+  terms-of-service-url: www.mayikt.com
+  contact:
+    name: 97后互联网架构师-余胜军
+    email: 644064779@qq.com

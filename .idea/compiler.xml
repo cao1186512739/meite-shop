@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="meiteshopbasicsspringcloudzuul" />
+        <module name="meite-shop-alipay-plugin" />
+        <module name="meite-shop-api-pay-dto" />
+        <module name="meiteshopapiweixindto" />
+        <module name="meiteshopserviceapiweixin" />
+        <module name="meiteshopserviceweixinimpl" />
+        <module name="meiteshopportalweb" />
+        <module name="meite-shop-service-pay-impl" />
+        <module name="meiteshopcommoncore" />
+        <module name="meiteshopbasicsspringcloudeureka" />
+        <module name="meiteshopserviceapimember" />
+        <module name="meite-shop-unionpay-plugin" />
+        <module name="meiteshopservicememberimpl" />
+        <module name="meite-shop-common-web-core" />
+        <module name="meite-shop-service-api-pay" />
+        <module name="meiteshopapimemberdto" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="meiteshopapientity" target="1.8" />
+      <module name="meiteshopapimemberentity" target="1.8" />
+      <module name="meiteshopapiweixinentity" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="meite-shop-alipay-plugin" options="-parameters" />
+      <module name="meite-shop-api-pay-dto" options="-parameters" />
+      <module name="meite-shop-common-web-core" options="-parameters" />
+      <module name="meite-shop-pay-plugin" options="-parameters" />
+      <module name="meite-shop-service-api-pay" options="-parameters" />
+      <module name="meite-shop-service-pay-impl" options="-parameters" />
+      <module name="meite-shop-unionpay-plugin" options="-parameters" />
+      <module name="meiteshopapidto" options="-parameters" />
+      <module name="meiteshopapientity" options="-parameters" />
+      <module name="meiteshopapimemberdto" options="-parameters" />
+      <module name="meiteshopapimemberentity" options="-parameters" />
+      <module name="meiteshopapiweixindto" options="-parameters" />
+      <module name="meiteshopapiweixinentity" options="-parameters" />
+      <module name="meiteshopbasics" options="-parameters" />
+      <module name="meiteshopbasicsspringcloudeureka" options="-parameters" />
+      <module name="meiteshopbasicsspringcloudzuul" options="-parameters" />
+      <module name="meiteshopcommon" options="-parameters" />
+      <module name="meiteshopcommoncore" options="-parameters" />
+      <module name="meiteshopportal" options="-parameters" />
+      <module name="meiteshopportalweb" options="-parameters" />
+      <module name="meiteshopserviceapi" options="-parameters" />
+      <module name="meiteshopserviceapimember" options="-parameters" />
+      <module name="meiteshopserviceapiweixin" options="-parameters" />
+      <module name="meiteshopserviceimpl" options="-parameters" />
+      <module name="meiteshopservicememberimpl" options="-parameters" />
+      <module name="meiteshopserviceweixinimpl" options="-parameters" />
+    </option>
+  </component>
+</project>

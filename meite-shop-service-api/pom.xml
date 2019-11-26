@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <parent>
+        <artifactId>meite-shop-parent</artifactId>
+        <groupId>com.opendev</groupId>
+        <version>1.0-SNAPSHOT</version>
+    </parent>
+    <modelVersion>4.0.0</modelVersion>
+
+    <artifactId>meite-shop-service-api</artifactId>
+    <packaging>pom</packaging>
+    <modules>
+        <module>meite-shop-service-api-member</module>
+        <module>meite-shop-service-api-weixin</module>
+        <module>meite-shop-service-api-pay</module>
+    </modules>
+
+    <dependencies>
+        <!--feign相关-->
+        <dependency>
+            <groupId>org.springframework.cloud</groupId>
+            <artifactId>spring-cloud-starter-openfeign</artifactId>
+        </dependency>
+
+        <!--common核心依赖-->
+        <dependency>
+            <groupId>com.opendev</groupId>
+            <artifactId>meite-shop-common-core</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
+    </dependencies>
+</project>
