@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="334d590e-4e28-49cc-aea5-df32c9fd79d5" name="Default Changelist" comment="" />
+    <list default="true" id="334d590e-4e28-49cc-aea5-df32c9fd79d5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meite-shop-service-api/meite-shop-service-api-spike/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-pay-impl/src/main/java/com/opendev/pay/MainTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-pay-impl/src/main/java/com/opendev/pay/config/rabbitmq/RabbitmqConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-pay-impl/src/main/java/com/opendev/pay/mq/producer/IntegralProducer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-spike/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meite-shop-service-api/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/meite-shop-service-api/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-pay-impl/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-pay-impl/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-pay-impl/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-pay-impl/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-pay-impl/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-pay-impl/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-pay-impl/target/classes/com/opendev/pay/service/impl/PayMentTransacTokenServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-pay-impl/target/classes/com/opendev/pay/service/impl/PayMentTransacTokenServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-pay-impl/target/classes/com/opendev/pay/strategy/impl/AliPayStrategy.class" beforeDir="false" afterPath="$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-pay-impl/target/classes/com/opendev/pay/strategy/impl/AliPayStrategy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meite-shop-service-impl/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/meite-shop-service-impl/pom.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/meite-shop-basics/target/" />
@@ -30,6 +45,8 @@
     <ignored path="$PROJECT_DIR$/meite-shop-pay-plugin/target/" />
     <ignored path="$PROJECT_DIR$/meite-shop-pay-plugin/meite-shop-alipay-plugin/target/" />
     <ignored path="$PROJECT_DIR$/meite-shop-pay-plugin/meite-shop-unionpay-plugin/target/" />
+    <ignored path="$PROJECT_DIR$/meite-shop-service-api/meite-shop-service-api-spike/target/" />
+    <ignored path="$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-spike/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +71,22 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/meite-shop-service-api/meite-shop-service-api-spike/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-spike/pom.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -71,12 +103,12 @@
       <find>loginType</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/meite-shop-portal/meite-shop-portal-web/src/main/resources/application.properties" />
-        <option value="$PROJECT_DIR$/meite-shop-portal/meite-shop-portal-web/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/meite-shop-portal/meite-shop-portal-web/src/main/java/com/opendev/config/XxlSsoConfig.java" />
         <option value="$PROJECT_DIR$/meite-shop-common/meite-shop-common-web-core/src/main/java/com/opendev/web/utils/RandomValidateCodeUtil.java" />
         <option value="$PROJECT_DIR$/meite-shop-common/meite-shop-common-web-core/pom.xml" />
         <option value="$PROJECT_DIR$/meite-shop-common/meite-shop-common-web-core/src/main/java/com/opendev/web/base/BaseWebController.java" />
@@ -98,7 +130,6 @@
         <option value="$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-pay-impl/src/main/java/com/opendev/pay/entity/TransactionEntity.java" />
         <option value="$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-pay-impl/src/main/java/com/opendev/pay/dao/TransactionLogDao.java" />
         <option value="$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-pay-impl/src/main/java/com/opendev/pay/dao/TransactionDao.java" />
-        <option value="$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-pay-impl/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-pay-impl/src/main/resources/mapper/TransactionMapper.xml" />
         <option value="$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-pay-impl/src/main/resources/mapper/TransactionLogMapper.xml" />
         <option value="$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-pay-impl/src/main/resources/mapper/ChannelMapper.xml" />
@@ -120,11 +151,15 @@
         <option value="$PROJECT_DIR$/meite-shop-pay-plugin/pom.xml" />
         <option value="$PROJECT_DIR$/meite-shop-pay-plugin/meite-shop-unionpay-plugin/src/main/java/com/opendev/init/InitUnionPayProject.java" />
         <option value="$PROJECT_DIR$/meite-shop-pay-plugin/meite-shop-unionpay-plugin/pom.xml" />
-        <option value="$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-pay-impl/pom.xml" />
         <option value="$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-pay-impl/src/main/java/com/opendev/pay/strategy/impl/UnionPayStrategy.java" />
         <option value="$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-pay-impl/src/main/java/com/opendev/pay/strategy/impl/XiaoPayStrategy.java" />
         <option value="$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-pay-impl/src/main/java/com/opendev/pay/service/impl/PayContextServiceImpl.java" />
         <option value="$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-pay-impl/src/main/java/com/opendev/pay/service/impl/PayMentTransacTokenServiceImpl.java" />
+        <option value="$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-pay-impl/pom.xml" />
+        <option value="$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-pay-impl/src/main/java/com/opendev/pay/config/rabbitmq/RabbitmqConfig.java" />
+        <option value="$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-pay-impl/src/main/java/com/opendev/pay/mq/producer/IntegralProducer.java" />
+        <option value="$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-pay-impl/src/main/java/com/opendev/MainTest.java" />
+        <option value="$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-pay-impl/src/main/resources/application.yml" />
       </list>
     </option>
   </component>
@@ -147,6 +182,7 @@
     <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <flattenPackages ProjectPane="false" />
@@ -165,70 +201,12 @@
             <path>
               <item name="meite-shop-parent" type="b2602c69:ProjectViewProjectNode" />
               <item name="meite-shop" type="462c0819:PsiDirectoryNode" />
-              <item name="meite-shop-service-impl" type="462c0819:PsiDirectoryNode" />
+              <item name="meite-shop-service-api" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="meite-shop-parent" type="b2602c69:ProjectViewProjectNode" />
               <item name="meite-shop" type="462c0819:PsiDirectoryNode" />
               <item name="meite-shop-service-impl" type="462c0819:PsiDirectoryNode" />
-              <item name="meite-shop-service-pay-impl" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="meite-shop-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="meite-shop" type="462c0819:PsiDirectoryNode" />
-              <item name="meite-shop-service-impl" type="462c0819:PsiDirectoryNode" />
-              <item name="meite-shop-service-pay-impl" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="meite-shop-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="meite-shop" type="462c0819:PsiDirectoryNode" />
-              <item name="meite-shop-service-impl" type="462c0819:PsiDirectoryNode" />
-              <item name="meite-shop-service-pay-impl" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="meite-shop-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="meite-shop" type="462c0819:PsiDirectoryNode" />
-              <item name="meite-shop-service-impl" type="462c0819:PsiDirectoryNode" />
-              <item name="meite-shop-service-pay-impl" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="meite-shop-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="meite-shop" type="462c0819:PsiDirectoryNode" />
-              <item name="meite-shop-service-impl" type="462c0819:PsiDirectoryNode" />
-              <item name="meite-shop-service-pay-impl" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="meite-shop-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="meite-shop" type="462c0819:PsiDirectoryNode" />
-              <item name="meite-shop-service-impl" type="462c0819:PsiDirectoryNode" />
-              <item name="meite-shop-service-pay-impl" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="opendev" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="meite-shop-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="meite-shop" type="462c0819:PsiDirectoryNode" />
-              <item name="meite-shop-service-impl" type="462c0819:PsiDirectoryNode" />
-              <item name="meite-shop-service-pay-impl" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="opendev" type="462c0819:PsiDirectoryNode" />
-              <item name="pay" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -243,6 +221,7 @@
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
@@ -266,11 +245,11 @@
       <recent name="E:\MyStudy\meite-shop\meite-shop-pay-plugin\meite-shop-unionpay-plugin\src\main\java" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.opendev" />
+      <recent name="com.opendev.pay.config.rabbitmq" />
       <recent name="com.opendev.init" />
       <recent name="com.alipay.config" />
       <recent name="com.opendev.pay.strategy" />
-      <recent name="com.opendev.pay.service.impl" />
-      <recent name="com.opendev.api.pay.service" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\MyStudy\meite-shop\meite-shop-pay-plugin\meite-shop-unionpay-plugin\src\main\resources" />
@@ -295,20 +274,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.StrategyFactory">
-    <configuration name="IndexController" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.opendev.portal.controller.IndexController" />
-      <module name="meiteshopportalweb" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.opendev.portal.controller.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Spring Boot.PayServiceApplication">
     <configuration name="SnowflakeIdWorker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.opendev.common.core.utils.twitter.SnowflakeIdWorker" />
       <module name="meiteshopcommoncore" />
@@ -348,6 +314,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="AppEureka" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="meiteshopbasicsspringcloudeureka" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.opendev.app.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.opendev.app.AppEureka" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="PayServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="meite-shop-service-pay-impl" />
       <extension name="coverage">
@@ -363,11 +342,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.StrategyFactory" />
         <item itemvalue="Spring Boot.PayServiceApplication" />
+        <item itemvalue="Spring Boot.AppEureka" />
+        <item itemvalue="Application.StrategyFactory" />
         <item itemvalue="Application.TestMain" />
         <item itemvalue="Application.SnowflakeIdWorker" />
-        <item itemvalue="Application.IndexController" />
       </list>
     </recent_temporary>
   </component>
@@ -390,7 +369,7 @@
       <workItem from="1573284134031" duration="10443000" />
       <workItem from="1573547220463" duration="24431000" />
       <workItem from="1573779452997" duration="3366000" />
-      <workItem from="1574659248196" duration="20835000" />
+      <workItem from="1574659248196" duration="23878000" />
     </task>
     <servers />
   </component>
@@ -427,11 +406,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="115384000" />
+    <option name="totallyTimeSpent" value="118427000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2153518" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -443,7 +421,7 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" weight="0.20260021" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" weight="0.26138827" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.30444205" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -452,7 +430,7 @@
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50053304" side_tool="true" weight="0.4734561" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32936078" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.46963122" />
       <window_info anchor="bottom" id="Java Enterprise" order="12" />
       <window_info anchor="bottom" id="Database Changes" order="13" />
       <window_info anchor="bottom" id="Version Control" order="14" />
@@ -472,132 +450,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/meite-shop-common/meite-shop-common-core/src/main/java/com/opendev/common/core/utils/GenerateToken.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="47" column="21" lean-forward="true" selection-start-line="47" selection-start-column="21" selection-end-line="47" selection-end-column="21" />
-          <folding>
-            <element signature="e#527#528#0" expanded="true" />
-            <element signature="e#581#582#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-pay-impl/src/main/java/com/opendev/pay/dao/ChannelDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-pay-impl/src/main/java/com/opendev/pay/dao/TransactionDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="16" column="31" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-pay-impl/src/main/java/com/opendev/pay/dao/TransactionLogDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" column="22" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-pay-impl/src/main/java/com/opendev/pay/entity/TransactionEntity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="367">
-          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/meite-shop-api-dto/meite-shop-api-pay-dto/src/main/java/com/opendev/pay/input/out/dto/PayMentTransacDTO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
-          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-pay-impl/src/main/java/com/opendev/pay/PayServiceApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="11" column="14" lean-forward="true" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-pay-impl/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" column="28" lean-forward="true" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/meite-shop-service-api/meite-shop-service-api-pay/src/main/java/com/opendev/api/pay/service/PaymentChannelService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="42" selection-start-line="9" selection-start-column="42" selection-end-line="9" selection-end-column="42" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/meite-shop-service-api/meite-shop-service-api-pay/src/main/java/com/opendev/api/pay/service/PayMentTransacTokenService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" column="42" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="42" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/meite-shop-common/meite-shop-common-core/src/main/java/com/opendev/common/base/BaseApiService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="628">
-          <caret line="68" column="9" lean-forward="true" selection-start-line="68" selection-start-column="9" selection-end-line="68" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/meite-shop-common/meite-shop-common-core/src/main/java/com/opendev/common/core/utils/MiteBeanUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" column="24" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/meite-shop-service-api/meite-shop-service-api-pay/src/main/java/com/opendev/api/pay/service/PayMentTransacInfoService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="16" column="43" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/meite-shop-service-api/meite-shop-service-api-pay/src/main/java/com/opendev/api/pay/service/PayContextService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-pay-impl/src/main/java/com/opendev/pay/entity/ChannelEntity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
@@ -741,13 +593,6 @@
     <entry file="file://$PROJECT_DIR$/meite-shop-service-impl/pom.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-pay-impl/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="751">
-          <caret line="36" column="43" selection-start-line="36" selection-start-column="43" selection-end-line="36" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-pay-impl/src/main/java/com/opendev/pay/strategy/impl/XiaoPayStrategy.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
@@ -831,6 +676,125 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-pay-impl/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="806">
+          <caret line="46" column="21" selection-start-line="46" selection-start-column="21" selection-end-line="46" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/amqp/spring-rabbit/2.0.3.RELEASE/spring-rabbit-2.0.3.RELEASE.jar!/org/springframework/amqp/rabbit/core/RabbitOperations.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="29" column="135" selection-start-line="29" selection-start-column="115" selection-end-line="29" selection-end-column="135" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/amqp/spring-amqp/2.0.3.RELEASE/spring-amqp-2.0.3.RELEASE.jar!/org/springframework/amqp/core/MessagePostProcessor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="7" column="37" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/org.springframework.amqp.core.MessagePostProcessor">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>org.springframework.amqp.core.MessagePostProcessor</OriginalElement>
+          <nodes>
+            <node x="" y="">org.springframework.amqp.core.MessagePostProcessor</node>
+            <node x="" y="">java.lang.FunctionalInterface</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="123.0" y="57.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/amqp/spring-amqp/2.0.3.RELEASE/spring-amqp-2.0.3.RELEASE-sources.jar!/org/springframework/amqp/core/MessagePostProcessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="49" column="11" selection-start-line="49" selection-start-column="4" selection-end-line="49" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/amqp/spring-rabbit/2.0.3.RELEASE/spring-rabbit-2.0.3.RELEASE.jar!/org/springframework/amqp/rabbit/core/RabbitTemplate.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="90" column="98" selection-start-line="90" selection-start-column="98" selection-end-line="90" selection-end-column="98" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-pay-impl/src/main/java/com/opendev/pay/PayServiceApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meite-shop-basics/meite-shop-basics-springcloud-eureka/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meite-shop-basics/meite-shop-basics-springcloud-eureka/src/main/java/com/opendev/app/AppEureka.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-pay-impl/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="674">
+          <caret line="49" column="19" selection-start-line="49" selection-start-column="19" selection-end-line="49" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-pay-impl/src/main/java/com/opendev/pay/mq/producer/IntegralProducer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="454">
+          <caret line="44" column="32" selection-start-line="44" selection-start-column="32" selection-end-line="44" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-pay-impl/src/main/java/com/opendev/pay/MainTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="25" column="28" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-pay-impl/src/main/java/com/opendev/pay/config/rabbitmq/RabbitmqConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="18" column="77" selection-start-line="18" selection-start-column="56" selection-end-line="18" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meite-shop-service-api/meite-shop-service-api-spike/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-spike/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
   </component>
   <component name="masterDetails">
     <states>
@@ -881,7 +845,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>meite-shop-unionpay-plugin</last-edited>
+          <last-edited>meite-shop-service-api-spike</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

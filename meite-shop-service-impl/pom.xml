@@ -15,6 +15,7 @@
         <module>meite-shop-service-member-impl</module>
         <module>meite-shop-service-weixin-impl</module>
         <module>meite-shop-service-pay-impl</module>
+        <module>meite-shop-service-spike</module>
     </modules>
 
     <dependencies>
