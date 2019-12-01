@@ -10,6 +10,9 @@
     <option name="ignoredFiles">
       <set>
         <option value="$PROJECT_DIR$/meite-shop-api-entity/pom.xml" />
+        <option value="$PROJECT_DIR$/meite-shop-service-api/meite-shop-service-api-integral/pom.xml" />
+        <option value="$PROJECT_DIR$/meite-shop-service-impl/com.mayikt.integral.consume/pom.xml" />
+        <option value="$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-integral-impl/pom.xml" />
       </set>
     </option>
   </component>

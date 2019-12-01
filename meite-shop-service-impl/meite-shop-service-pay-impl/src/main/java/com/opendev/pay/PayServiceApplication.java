@@ -16,7 +16,7 @@ import org.springframework.context.annotation.ComponentScan;
 @SpringBootApplication
 @EnableEurekaClient
 //@EnableApolloConfig
-@MapperScan(basePackages = {"com.opendev.pay.dao"})
+//@MapperScan(basePackages = {"com.opendev.pay.dao"})
 @EnableFeignClients(basePackages = "com.opendev.api")  //开启FeignClient支持
 @ComponentScan(basePackages={"com.opendev.api","com.opendev.pay","com.opendev"})//扫描接口
 public class PayServiceApplication {

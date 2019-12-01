@@ -42,7 +42,7 @@ public class WebConfiguration implements WebMvcConfigurer {
         return new WebServerFactoryCustomizer<ConfigurableWebServerFactory>() {
             @Override
             public void customize(ConfigurableWebServerFactory factory) {
-                // ErrorPage error401Page = new ErrorPage(HttpStatus.UNAUTHORIZED, "/401.html");
+                //ErrorPage error401Page = new ErrorPage(HttpStatus.UNAUTHORIZED, "/401.html");
                 ErrorPage error404Page = new ErrorPage(HttpStatus.NOT_FOUND, "/common/404.html");
                 log.error("====WebMvcConfig.WebServerFactoryCustomizer===404错误跳转页面:/common/404.html");
                 factory.addErrorPages(error404Page);

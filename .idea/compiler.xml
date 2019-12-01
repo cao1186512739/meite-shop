@@ -7,19 +7,21 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="meiteshopbasicsspringcloudzuul" />
-        <module name="meite-shop-service-spike" />
+        <module name="meite-shop-service-api-integral-1meiteshopserviceapiintegral1" />
         <module name="meite-shop-alipay-plugin" />
         <module name="meite-shop-api-pay-dto" />
         <module name="meiteshopapiweixindto" />
         <module name="meiteshopserviceapiweixin" />
+        <module name="meite-shop-service-spike-impl" />
         <module name="meiteshopserviceweixinimpl" />
         <module name="meiteshopportalweb" />
         <module name="meite-shop-service-pay-impl" />
-        <module name="meite-shop-service-api-spike" />
+        <module name="meite-shop-service-integral-impl-1" />
         <module name="meiteshopcommoncore" />
         <module name="meiteshopbasicsspringcloudeureka" />
         <module name="meiteshopserviceapimember" />
         <module name="meite-shop-unionpay-plugin" />
+        <module name="meite-shop-service-api-spike" />
         <module name="meiteshopservicememberimpl" />
         <module name="meite-shop-common-web-core" />
         <module name="meite-shop-service-api-pay" />
@@ -27,6 +29,9 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="com.mayikt.integral.consume" target="1.8" />
+      <module name="meite-shop-service-api-integral" target="1.8" />
+      <module name="meite-shop-service-integral-impl" target="1.8" />
       <module name="meiteshopapientity" target="1.8" />
       <module name="meiteshopapimemberentity" target="1.8" />
       <module name="meiteshopapiweixinentity" target="1.8" />
@@ -34,14 +39,19 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="com.mayikt.integral.consume" options="-parameters" />
       <module name="meite-shop-alipay-plugin" options="-parameters" />
       <module name="meite-shop-api-pay-dto" options="-parameters" />
       <module name="meite-shop-common-web-core" options="-parameters" />
       <module name="meite-shop-pay-plugin" options="-parameters" />
+      <module name="meite-shop-service-api-integral" options="-parameters" />
+      <module name="meite-shop-service-api-integral-1meiteshopserviceapiintegral1" options="-parameters" />
       <module name="meite-shop-service-api-pay" options="-parameters" />
       <module name="meite-shop-service-api-spike" options="-parameters" />
+      <module name="meite-shop-service-integral-impl" options="-parameters" />
+      <module name="meite-shop-service-integral-impl-1" options="-parameters" />
       <module name="meite-shop-service-pay-impl" options="-parameters" />
-      <module name="meite-shop-service-spike" options="-parameters" />
+      <module name="meite-shop-service-spike-impl" options="-parameters" />
       <module name="meite-shop-unionpay-plugin" options="-parameters" />
       <module name="meiteshopapidto" options="-parameters" />
       <module name="meiteshopapientity" options="-parameters" />

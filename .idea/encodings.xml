@@ -18,14 +18,18 @@
     <file url="file://$PROJECT_DIR$/meite-shop-portal" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/meite-shop-portal/meite-shop-portal-web" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/meite-shop-service-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/meite-shop-service-api/meite-shop-service-api-integral" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/meite-shop-service-api/meite-shop-service-api-integral-1" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/meite-shop-service-api/meite-shop-service-api-member" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/meite-shop-service-api/meite-shop-service-api-pay" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/meite-shop-service-api/meite-shop-service-api-spike" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/meite-shop-service-api/meite-shop-service-api-weixin" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/meite-shop-service-impl" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-integral-impl" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-integral-impl-1" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-member-impl" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-pay-impl" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-spike" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-spike-impl" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/meite-shop-service-impl/meite-shop-service-weixin-impl" charset="UTF-8" />
   </component>
 </project>

@@ -16,6 +16,7 @@
         <module>meite-shop-service-api-weixin</module>
         <module>meite-shop-service-api-pay</module>
         <module>meite-shop-service-api-spike</module>
+        <module>meite-shop-service-api-integral-1</module>
     </modules>
 
     <dependencies>
